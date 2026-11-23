@@ -1,1 +1,1 @@
-[View the interactive dashboard on Tableau Public](https://public.tableau.com:9443/views/BucknellUniversityRAandPSafeResponseDashboard/TestDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View on Tableau Public]([https://public.tableau.com/app/profile/your-real-name/viz/Your-Real-VizName/Dashboard1](https://public.tableau.com/app/profile/maisie.mcgowan/viz/BucknellUniversityRAandPSafeResponseDashboard/TestDashboard))
