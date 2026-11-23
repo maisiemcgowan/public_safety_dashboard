@@ -30,4 +30,4 @@ Excel and Tableau analysis
 - `RA_Psafe_Preview.png`: dashboard screenshot
 
 ## Credits
-Original workbook by [Maisie McGowan]. Data from Bucknell University.
+Original workbook by [Maisie McGowan]. Data from [Bucknell University].
