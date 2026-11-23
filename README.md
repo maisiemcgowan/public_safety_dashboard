@@ -4,7 +4,7 @@ A visualization of Bucknell University's RA and Public Safety response times.
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/maisie.mcgowan/viz/BucknellUniversityRAandPSafeResponseDashboard/TestDashboard)
 
-[Dashboard preview](Dashboard Preview.png)
+![Dashboard preview](dashboard_preview.png)
 
 ## Objective
 How can Bucknell's Residential Education and Public Safety offices improve response times to crises?
