@@ -10,18 +10,16 @@ An interactive Tableau dashboard analyzing response times for Residential Assist
 This project examines how Bucknell's Residential Education and Public Safety offices can reduce response times to campus crisis calls, and where improvements would have the greatest impact.
 
 ## Data
-2023 - 2025
-
-## Data
+Years: 2023 - 2025
 
 | Dataset | Source | Key Fields | Used For |
 |---|---|---|---|
 | **PSAFE Data** | Bucknell Public Safety | Incident type, date, time received, time dispatched, time arrived, time cleared, day of week | Calculating Public Safety response times by incident type and day |
-| **RA On Call Logistics** | Provided by Residential Education | Building, number of RAs, notes, staff, class year | Mapping RA coverage across four duty areas (RTKG, West-Affinity, McDonnell-Legacy, Swartz-South Campus) |
+| **RA On Call Logistics** | Bucknell Residential Education | Building, number of RAs, notes, staff, class year | Mapping RA coverage across four duty areas (RTKG, West-Affinity, McDonnell-Legacy, Swartz-South Campus) |
 | **RA Response Times and Feedback** | Survey of 21 RAs | Comfort handling on-duty responsibilities (1-5 scale), RA residence, buildings served, open-ended comments | Mapping the distance RAs cover on duty and capturing qualitative feedback |
 | **2023 Incident Log by Type** | Bucknell University | Incident, location, date reported, municipality, current status | Identifying where major housing-related incidents occur and placing them on the campus map |
 
-**Privacy note:** RA survey responses were [anonymized / reported in aggregate]. No individual student information is included.
+**Privacy note:** RA survey responses were anonymized. No individual student information is included.
 
 ## Approach
 Excel and Tableau analysis
@@ -40,4 +38,4 @@ Excel and Tableau analysis
 - `dashboard_preview.png`: dashboard screenshot
 
 ## Credits
-Original workbook by [Maisie McGowan]. Data from [Bucknell University].
+Original workbook by Maisie McGowan. Data from Bucknell University.
