@@ -1,1 +1,1 @@
-[View on Tableau Public]([https://public.tableau.com/app/profile/your-real-name/viz/Your-Real-VizName/Dashboard1](https://public.tableau.com/app/profile/maisie.mcgowan/viz/BucknellUniversityRAandPSafeResponseDashboard/TestDashboard))
+[View on Tableau Public](https://public.tableau.com/app/profile/maisie.mcgowan/viz/BucknellUniversityRAandPSafeResponseDashboard/TestDashboard)
